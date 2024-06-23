@@ -1,6 +1,6 @@
 - 👋 Hi, I’m derek@VRNeighborhood
 - 👀 I’m interested in Game-Ready Digital Twins.
-- 🌱 I’m currently developing for Meta Quest and Sony pLaystation VR.
+- 🌱 I’m currently developing for Meta Quest and Sony Playstation VR.
 - 💞️ I’m looking to collaborate on unreal engine and unity games.
 - 📫 How to reach me derek@vrneighborhood.com
 - 😄 Pronouns: He/him
