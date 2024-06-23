@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VRNeighborhood
+- 👋 Hi, I’m derek@VRNeighborhood
 - 👀 I’m interested in Game-Ready Digital Twins.
 - 🌱 I’m currently developing for Meta Quest and Sony pLaystation VR.
 - 💞️ I’m looking to collaborate on unreal engine and unity games.
